@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio (while studying with ACloudGuru)
+# Otto Aulicino's Portfolio
+Test change
+This is my professional portfolio. It uses AWS and ReactJS.
